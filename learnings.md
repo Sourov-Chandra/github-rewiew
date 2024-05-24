@@ -8,4 +8,6 @@
 
 4. git workflow
 
-computer - github
+5. merge conflict
+
+6. how to resolve merge conflict
