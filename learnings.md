@@ -6,5 +6,6 @@
 - ssh key generate
 - ssh public key add to github
 
-4. test
+4. git workflow
+
 computer - github
